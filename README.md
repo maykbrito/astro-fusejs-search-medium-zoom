@@ -2,7 +2,7 @@
 
 Blog + FuseJS Search + Medium's Style for Image Fullscreen Zoom
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/maykbrito/astro-fusejs-search-medium-zoom/tree/latest)
+[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/maykbrito/astro-fusejs-search-medium-zoom/)
 
 Features:
 
